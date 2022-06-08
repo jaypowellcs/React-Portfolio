@@ -7,7 +7,7 @@ import {
         CardTitle, 
         CardSubtitle, 
      } from 'reactstrap';
-import VeluxSkylights from '../../shared/images/velux.jpg';
+import VeluxSkylights from '../../app/assets/images/velux.jpg';
 
 
 const Velux = () => {

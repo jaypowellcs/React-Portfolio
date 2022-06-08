@@ -7,7 +7,7 @@ import {
         CardTitle, 
         CardSubtitle, 
      } from 'reactstrap';
-import NucampLogo from '../../shared/images/nucamp.png';
+import NucampLogo from '../../app/assets/images/nucamp.png';
 
 
 const Nucamp = () => {

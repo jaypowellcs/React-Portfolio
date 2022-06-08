@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
-import Header from './app/components/Header';
-//import Header2 from './app/components/Header2';
-import Footer from './app/components/Footer';
+import Header from '../src/components/Header';
+import Footer from '../src/components/Footer';
 import Home from '../src/features/home/Home';
 import About from '../src/features/about/About';
-import Skills from './features/skills/Skills';
-import School from './features/education/School';
-import Portfolio from './features/portfolio/Portfolio';
-import Contact from './features/contact/Contact';
+import Skills from '../src/features/skills/Skills';
+import School from '../src/features/education/School';
+import Portfolio from '../src/features/portfolio/Portfolio';
+import Contact from '../src/features/contact/Contact';
 
 
 function App() {

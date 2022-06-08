@@ -1,4 +1,4 @@
-import HomePhoto from '../../shared/images/jaypowellcs.jpg';
+import HomePhoto from '../../app/assets/images/jaypowellcs.jpg';
 
 
 

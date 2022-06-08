@@ -7,7 +7,7 @@ import {
         CardTitle, 
         CardSubtitle, 
      } from 'reactstrap';
-import CarpenterCompany from '../../shared/images/carpenter.png';
+import CarpenterCompany from '../../app/assets/images/carpenter.png';
 
 
 const Carpenter = () => {

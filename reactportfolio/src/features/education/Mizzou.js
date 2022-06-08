@@ -7,7 +7,7 @@ import {
         CardTitle, 
         CardSubtitle, 
      } from 'reactstrap';
-import MizzouLogo from '../../shared/images/mu.png';
+import MizzouLogo from '../../app/assets/images/mu.png';
 
 
 const Mizzou = () => {

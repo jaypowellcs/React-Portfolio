@@ -13,7 +13,7 @@ import { Card,
         Container, 
         Row,
        } from 'reactstrap';
-import BuyHomes from '../../shared/images/buyhomes.png'
+import BuyHomes from '../../app/assets/images/buyhomes.png'
 
 
 const Project1 = () => {

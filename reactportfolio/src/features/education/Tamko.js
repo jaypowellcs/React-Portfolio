@@ -7,7 +7,7 @@ import {
         CardTitle, 
         CardSubtitle, 
      } from 'reactstrap';
-import TamkoLogo from '../../shared/images/tamko.png';
+import TamkoLogo from '../../app/assets/images/tamko.png';
 
 
 const Tamko = () => {

@@ -13,7 +13,7 @@ import { Card,
         Container, 
         Row,
        } from 'reactstrap';
-import reactportfolio from '../../shared/images/reactportfolio.jpg'
+import reactportfolio from '../../app/assets/images/reactportfolio.jpg'
 
 
 const Project2 = () => {

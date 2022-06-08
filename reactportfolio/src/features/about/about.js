@@ -1,6 +1,6 @@
 
-import Resume from '../../shared/images/resume.pdf';
-import resumePhoto from '../../shared/images/resumePhoto.jpg';
+import Resume from '../../app/assets/images/resume.pdf';
+import resumePhoto from '../../app/assets/images/resumePhoto.jpg';
 
 const About = () => {
     return (
