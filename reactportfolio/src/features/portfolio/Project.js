@@ -8,8 +8,7 @@ import { Card,
          CardText,
         CardBody,
         CardTitle, 
-        CardSubtitle, 
-        Button,
+        CardSubtitle,
         Container, 
         Row,
        } from 'reactstrap';
@@ -44,10 +43,11 @@ const Project = () => {
                 <CardTitle>React Portfolio Website</CardTitle>
                 <CardSubtitle>Skills Used: CSS, React, JS, Bootstrap, React Spring</CardSubtitle>
                 <CardText>Website I built for my Portfolio website using React</CardText>
-                <Button> 
+                <button>
                   <a href="https://www.linkedin.com/in/jay-powell-b9b7168a/" target="_blank"  rel="noreferrer" className="footer__social">
                         Press Here to go to the Website. 
-                  </a></Button>
+                  </a>
+                </button>
               </CardBody>
             </Card>
             </div>

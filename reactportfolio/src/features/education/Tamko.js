@@ -33,7 +33,7 @@ const Tamko = () => {
                     <CardTitle className="qualifiication__title">Tamko Building Products</CardTitle>
                     <CardSubtitle className="qualification__subtitle">Territory Manager</CardSubtitle>
                     <CardText className="qualification__calendar">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i className="fa fa-calendar" aria-hidden="true"></i>
                         2015-2020
                     </CardText>
 

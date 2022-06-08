@@ -9,7 +9,6 @@ import { Card,
         CardBody,
         CardTitle, 
         CardSubtitle, 
-        Button,
         Container, 
         Row,
        } from 'reactstrap';
@@ -46,10 +45,11 @@ const Project1 = () => {
                   <CardTitle>Right at Home Properties Website</CardTitle>
                   <CardSubtitle>Skills Used: Bootstrap, Jquery, Html</CardSubtitle>
                   <CardText>Website I built for a company focused on buying properties off market</CardText>
-                  <Button> 
-                    <a href="https://www.linkedin.com/in/jay-powell-b9b7168a/" target="_blank"  rel="noreferrer" className="footer__social">
+                  <button>
+                  <a href="https://www.linkedin.com/in/jay-powell-b9b7168a/" target="_blank"  rel="noreferrer" className="footer__social">
                         Press Here to go to the Website. 
-                    </a></Button>
+                  </a>
+                </button>
                 </CardBody>
               </Card>
               </div>

@@ -33,7 +33,7 @@ const Carpenter = () => {
                     <CardTitle className="qualifiication__title">Carpenter Company</CardTitle>
                     <CardSubtitle className="qualification__subtitle">District Manager</CardSubtitle>
                     <CardText className="qualification__calendar">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i className="fa fa-calendar" aria-hidden="true"></i>
                             2021
                     </CardText>
 

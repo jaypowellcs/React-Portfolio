@@ -33,7 +33,7 @@ const Mizzou = () => {
                     <CardTitle className="qualifiication__title">College Education</CardTitle>
                     <CardSubtitle className="qualification__subtitle">University of Missouri</CardSubtitle>
                     <CardText className="qualification__calendar">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i className="fa fa-calendar" aria-hidden="true"></i>
                         Graduation Date: 2015
                     </CardText>
 

@@ -4,7 +4,6 @@ import {useState} from 'react';
 
 const Header = () => {
 
-
     const [isNavExpanded, setIsNavExpanded] = useState(false)
     
 
@@ -12,7 +11,7 @@ const Header = () => {
         <header className="header" id="header">
         <nav className="nav container">
         <a href='https://github.com/jaypowellcs' className="btn btn-social-icon btn-github" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-github"></span>
+                            <span className="fa fa-github"></span>
                         </a>
             <div className={
           isNavExpanded ? "show-menu" : "nav__menu"

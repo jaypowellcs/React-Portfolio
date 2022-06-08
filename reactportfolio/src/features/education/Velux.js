@@ -33,7 +33,7 @@ const Velux = () => {
                     <CardTitle className="qualifiication__title">Velux Skylights</CardTitle>
                     <CardSubtitle className="qualification__subtitle">Sales Representative</CardSubtitle>
                     <CardText className="qualification__calendar">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i className="fa fa-calendar" aria-hidden="true"></i>
                             2021-Present
                     </CardText>
 

@@ -33,7 +33,7 @@ const Nucamp = () => {
                     <CardTitle className="qualifiication__title">Nucamp Coding Bootcamp</CardTitle>
                     <CardSubtitle className="qualification__subtitle">Full Stack Web Development</CardSubtitle>
                     <CardText className="qualification__calendar">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <i className="fa fa-calendar" aria-hidden="true"></i>
                             Estimated Graduation: August 2022 
                     </CardText>
 

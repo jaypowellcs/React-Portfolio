@@ -9,13 +9,13 @@ const Home = () => {
                 <div className="home__content grid">
                     <div className="home__social">
                     <a href='https://twitter.com/jaypowellcs' className="btn btn-social-icon btn-twitter" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-twitter"></span>
+                            <span className="fa fa-twitter"></span>
                         </a>
                         <a href='https://twitter.com/jaypowellcs' className="btn btn-social-icon btn-github" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-github"></span>
+                            <span className="fa fa-github"></span>
                         </a>
                         <a href='https://twitter.com/jaypowellcs' className="btn btn-social-icon btn-linkedin" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-linkedin"></span>
+                            <span className="fa fa-linkedin"></span>
                         </a>
                     </div>
                 <div>

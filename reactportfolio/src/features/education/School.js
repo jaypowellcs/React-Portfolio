@@ -18,7 +18,7 @@ const School = () => {
         
             <Row>
                 <Col md='12' className="qualification__heading">
-                <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                <i className="fa fa-graduation-cap" aria-hidden="true"></i>
                Work
                 </Col>
             </Row>
@@ -38,7 +38,7 @@ const School = () => {
            
            <Row className='m-2'>
                 <Col md='12' className="qualification__heading">
-                    <i class="fa fa-briefcase" aria-hidden="true"></i>
+                    <i className="fa fa-briefcase" aria-hidden="true"></i>
                     Education
                 </Col>
             </Row>

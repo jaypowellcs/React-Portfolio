@@ -27,13 +27,13 @@ const Footer = () => {
                     <div className="footer__socials">
                     <h1 className="footer__title">Connect with Me</h1>
                         <a href='https://twitter.com/jaypowellcs' className="btn btn-social-icon btn-twitter" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-twitter"></span>
+                            <span className="fa fa-twitter"></span>
                         </a>
                         <a href='https://github.com/jaypowellcs' className="btn btn-social-icon btn-github" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-github"></span>
+                            <span className="fa fa-github"></span>
                         </a>
                         <a href='https://www.linkedin.com/feed/' className="btn btn-social-icon btn-linkedin" target="_blank" rel="noreferrer"> 
-                            <span class="fa fa-linkedin"></span>
+                            <span className="fa fa-linkedin"></span>
                         </a>
                     </div>
                 </div>
