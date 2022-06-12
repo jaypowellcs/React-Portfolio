@@ -46,7 +46,7 @@ const Project1 = () => {
                   <CardSubtitle>Skills Used: Bootstrap, Jquery, Html</CardSubtitle>
                   <CardText>Website I built for a company focused on buying properties off market</CardText>
                   <button>
-                  <a href="https://www.linkedin.com/in/jay-powell-b9b7168a/" target="_blank"  rel="noreferrer" className="footer__social">
+                  <a className="button" href="https://github.com/jaypowellcs/BuyHomesQuickDFW" target="_blank"  rel="noreferrer" >
                         Press Here to go to the Website. 
                   </a>
                 </button>

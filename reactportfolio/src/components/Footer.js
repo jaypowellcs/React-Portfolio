@@ -14,6 +14,9 @@ const Footer = () => {
                             <a href="#home" className="footer__link">Home</a>
                         </li>
                         <li>
+                            <a href="#about" className="footer__link">About</a>
+                        </li>
+                        <li>
                             <a href="#skills" className="footer__link">Skills</a>
                         </li>
                         <li>
@@ -26,13 +29,13 @@ const Footer = () => {
 
                     <div className="footer__socials">
                     <h1 className="footer__title">Connect with Me</h1>
-                        <a href='https://twitter.com/jaypowellcs' className="btn btn-social-icon btn-twitter" target="_blank" rel="noreferrer"> 
+                        <a href='https://twitter.com/jaypowellcs' className="btn btn-social-icon btn-twitter m-2" target="_blank" rel="noreferrer"> 
                             <span className="fa fa-twitter"></span>
                         </a>
-                        <a href='https://github.com/jaypowellcs' className="btn btn-social-icon btn-github" target="_blank" rel="noreferrer"> 
+                        <a href='https://github.com/jaypowellcs' className="btn btn-social-icon btn-github m-2" target="_blank" rel="noreferrer"> 
                             <span className="fa fa-github"></span>
                         </a>
-                        <a href='https://www.linkedin.com/feed/' className="btn btn-social-icon btn-linkedin" target="_blank" rel="noreferrer"> 
+                        <a href='https://www.linkedin.com/feed/' className="btn btn-social-icon btn-linkedin m-2" target="_blank" rel="noreferrer"> 
                             <span className="fa fa-linkedin"></span>
                         </a>
                     </div>

@@ -4,7 +4,7 @@ import resumePhoto from '../../app/assets/images/resumePhoto.jpg';
 
 const About = () => {
     return (
-        <section className="about selection" id="about">
+        <section className="about selection about" id="about" >
         <h2 className="section__title">About Me</h2>
         <span className="section__subtitle">My Introduction</span>
 

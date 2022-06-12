@@ -40,11 +40,11 @@ const Project = () => {
             <Card className='p-1 m-1'>
               <CardImg top width="100%" src={greenpines} alt="Jay Powell Portfolio Website" />
               <CardBody>
-                <CardTitle>React Portfolio Website</CardTitle>
+                <CardTitle>Green Pines Apartment Complex Website</CardTitle>
                 <CardSubtitle>Skills Used: CSS, React, JS, Bootstrap, React Spring</CardSubtitle>
-                <CardText>Website I built for my Portfolio website using React</CardText>
+                <CardText>Website I built for a Apartment Complex based in Grapevine, Texas</CardText>
                 <button>
-                  <a href="https://www.linkedin.com/in/jay-powell-b9b7168a/" target="_blank"  rel="noreferrer" className="footer__social">
+                  <a href="https://github.com/jaypowellcs/Green-Pine-Multifamily" target="_blank"  rel="noreferrer" className="button">
                         Press Here to go to the Website. 
                   </a>
                 </button>
