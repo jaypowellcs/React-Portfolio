@@ -12,7 +12,7 @@ import { Card,
         Container, 
         Row,
        } from 'reactstrap';
-import reactportfolio from '../../app/assets/images/reactportfolio.jpg'
+import greenpines from '../../app/assets/images/greenpines1.png'
 
 const Project = () => {
     const [panelOpen, setPanelOpen] = useState(false);
@@ -30,7 +30,7 @@ const Project = () => {
     <Container>
         <Row>
         <button className="button" onClick={() => setPanelOpen(a => !a)}>
-          React Portfolio Website - Jay Powell  
+          Green Pines Apartment Complex Website  
         </button>
         <animated.div style={panelProps} className="panel">
         <animated.div style={buttonProps}>
@@ -38,7 +38,7 @@ const Project = () => {
             React Portfolio Website - Jay Powell 
             <div>
             <Card className='p-1 m-1'>
-              <CardImg top width="100%" src={reactportfolio} alt="Jay Powell Portfolio Website" />
+              <CardImg top width="100%" src={greenpines} alt="Jay Powell Portfolio Website" />
               <CardBody>
                 <CardTitle>React Portfolio Website</CardTitle>
                 <CardSubtitle>Skills Used: CSS, React, JS, Bootstrap, React Spring</CardSubtitle>

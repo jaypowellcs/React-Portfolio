@@ -1,8 +1,8 @@
 import {Container, Col, Row} from 'reactstrap';
 import Project from '../portfolio/Project';
 import Project1 from '../portfolio/Project1';
-import Project2 from '../portfolio/Project2';
-import Project3 from '../portfolio/Project2';
+//import Project2 from '../portfolio/Project2';
+//import Project3 from '../portfolio/Project2';
 
 
 const Portfolio = () => {
@@ -24,19 +24,8 @@ const Portfolio = () => {
             <Project1></Project1>
             </Col>
         </Row>
-        <Row>
-            <Col md='5' className='m-1'>
-            <Project2></Project2>
-            </Col>
-            <Col md='5' className='m-1'>
-            <Project3></Project3>
-            </Col>
-        </Row>
     </section>
     </Container>
-        
-
-    
     );
 };
 
