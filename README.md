@@ -34,4 +34,4 @@ Website built with React to showcase off my frontend skills.
 - Possibly make the site bigger and add projects to other pages. 
 ## Contact
 Created by [@jaypowellcs](https://github.com/jaypowellcs) - feel free to contact me!
-Email: jaypowellcs@gmail.com
+Email: jaypowell.cs@gmail.com
